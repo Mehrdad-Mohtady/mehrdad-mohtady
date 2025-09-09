@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Mehrdad  
+🚀 DevOps Engineer | Linux Systems & Cloud Enthusiast  
 
-<!--
-**Mehrdad-Mohtady/mehrdad-mohtady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔧 Experienced in **Kubernetes, Docker, CI/CD, and Monitoring**  
+- 🌱 Currently working on **telecom infra & startup projects**  
+- 💡 Passionate about **automation, security, and scalable systems**  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- [Resilientia Backend](https://github.com/mehrdad-mohtady/resilientia-backend) (FastAPI + Docker)  
+- [Spanly Frontend](https://github.com/mehrdad-mohtady/spanly-frontend) (React + Vite + Docker)  
+
+### 📊 GitHub Stats
+![Mehrdad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehrdad-mohtady&show_icons=true&theme=tokyonight)
+
+📫 How to reach me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mehrdad-mohtady)  
