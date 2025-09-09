@@ -14,8 +14,8 @@
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
 
 ### 🚀 Featured Projects
-- [Resilientia Backend](https://github.com/mehrdad-mohtady/resilientia-backend) (FastAPI + Docker)  
-- [Spanly Frontend](https://github.com/mehrdad-mohtady/spanly-frontend) (React + Vite + Docker)  
+- [RKE2 full automation](https://github.com/mehrdad-mohtady/RKE2-full-automation) (Bash)  
+- [Kubekey](https://github.com/mehrdad-mohtady/Kubekey) (Yaml / Bash)
 
 ### 📊 GitHub Stats
 ![Mehrdad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehrdad-mohtady&show_icons=true&theme=tokyonight)
